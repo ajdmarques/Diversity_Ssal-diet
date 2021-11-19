@@ -1,2 +1,14 @@
-# Diversity_Ssal-diet
-Codes and raw data needed to replicate the results of Marques, et al. 2021 Diversity
+# Dietary analysis of fire salamanders (Salamandra salamandra gallaica) in the north-western Iberian peninsula.
+
+Raw data and R scripts are provided to replicate the results of Marques, et al. 2021 Diversity.
+
+Users should download the contents of this repository. Open the R project 'DietAnalysis.Rproj' and run the R scripts in order from 01 to 04.
+
+Before proceeding, ensure the following packages have been installed.
+
+install.packages(c('dplyr','tidyverse','iNEXT','vegan','magrittr','ggplot2'))
+
+Please cite as follows:
+
+
+
