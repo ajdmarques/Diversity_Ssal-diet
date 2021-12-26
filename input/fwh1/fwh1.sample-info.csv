@@ -1,0 +1,35 @@
+sample,INDEX,vaucher,type,extblank,pcrblank,site,lat ,lon,habitat,amphibian species,sex,age,weight,SVL,extract,date,
+CAS_E_001,P7-29;P5-37,LAGO_EU_1,sample,,,Lago de Castinheiras,,,EUCALYPT,Salamandra salamandra,,,,,LAG_E_001,07-07-2021
+CAS_E_002,P7-29;P5-40,LAGO_EU_2,sample,,,Lago de Castinheiras,,,EUCALYPT,Salamandra salamandra,,,,,LAG_E_002,07-07-2021
+CAS_E_003,P7-29;P5-45,LAGO_EU_3,sample,,,Lago de Castinheiras,,,EUCALYPT,Salamandra salamandra,,,,,LAG_E_003,07-07-2021
+GVA9620,P7-20;P5-40,GVA9620,sample,,,Seixo,42.369894514643,-8.72246199594764,DECIDUOUS,Salamandra salamandra,female,adult,28.4,114.28,GVA9620_F,07-07-2021
+GVA9622,P7-29;P5-22,GVA9622,sample,,,Beluso,42.3419868041633,-8.80657606631473,EUCALYPT,Salamandra salamandra,female,adult,27.9,106.28,GVA9622_F,09-07-2021
+GVA9623,P7-29;P5-28,GVA9623,sample,,,Beluso,42.3419868041633,-8.80657606631473,EUCALYPT,Salamandra salamandra,,juvenile,4.1,58.4,GVA9623_F,09-07-2021
+GVA9624,P7-20;P5-45,GVA9624,sample,,,Ermelo-Rego Frades,42.3186362933757,-8.76640730711228,DECIDUOUS,Salamandra salamandra,female,adult,25.6,106.16,GVA9624_F,07-07-2021
+GVA9630,P7-22;P5-13,GVA9630,sample,,,Seixo,42.374013,-8.730303,DECIDUOUS,Salamandra salamandra,male,adult,33,117,GVA9630_F,07-07-2021
+GVA9631,P7-22;P5-02,GVA9631,sample,,,Seixo,42.374013,-8.730303,DECIDUOUS,Salamandra salamandra,female,adult,15,82,GVA9631_F,07-07-2021
+GVA9632,P7-22;P5-22,GVA9632,sample,,,Seixo,42.374013,-8.730303,DECIDUOUS,Salamandra salamandra,male,adult,40,119,GVA9632_F,07-07-2021
+GVA9633,P7-29;P5-34,GVA9633,sample,,,Beluso,42.3419868041633,-8.80657606631473,EUCALYPT,Salamandra salamandra,female,juvenile,7,68,GVA9633_F,09-07-2021
+LOI_E_003,P7-22;P5-28,LOIRA-3,sample,,,Loira,,,EUCALYPT,Salamandra salamandra,,,,,LOI_E_002,07-07-2021
+LOI_E_004,P7-22;P5-34,LOIRA-4,sample,,,Loira,,,EUCALYPT,Salamandra salamandra,,,,,LOI_E_002,07-07-2021
+LOI_E_005,P7-22;P5-37,LOIRA-5,sample,,,Loira,,,EUCALYPT,Salamandra salamandra,,,,,LOI_E_002,07-07-2021
+FWH1_NEG1,P7-51;P5-02,PCR-NEG,pcrblank,,,,,,,,,,,,,13-07-2021
+FWH1_NEG2,P7-51;P5-13,PCR-NEG,pcrblank,,,,,,,,,,,,,13-07-2021
+NEG_SS_0707,P7-49;P5-02,EXT-NEG,extblank,,,,,,,,,,,,,
+NEG_SS_0907,P7-49;P5-45,EXT-NEG,extblank,,,,,,,,,,,,,
+ONS_N_001,P7-22;P5-40,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_001,09-07-2021
+ONS_N_002,P7-22;P5-45,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_002,09-07-2021
+ONS_N_003,P7-20;P5-02,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_003,09-07-2021
+ONS_N_004,P7-29;P5-13,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_004,09-07-2021
+ONS_N_006,P7-49;P5-13,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_006,09-07-2021
+ONS_N_007,P7-49;P5-22,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_007,09-07-2021
+ONS_N_008,P7-49;P5-28,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_008,09-07-2021
+ONS_N_009,P7-49;P5-34,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_009,09-07-2021
+ONS_N_010,P7-49;P5-37,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_011,09-07-2021
+ONS_N_011,P7-49;P5-40,,sample,,,Ons,,,ISLAND,Salamandra salamandra,,,,,ONS_N_011,09-07-2021
+SXO_N_003,P7-20;P5-02,SEIXO-3,sample,,,Seixo,,,DECIDUOUS,Salamandra salamandra,,,,,SXO_N_003,07-07-2021
+SXO_N_004,P7-20;P5-13,SEIXO-4,sample,,,Seixo,,,DECIDUOUS,Salamandra salamandra,,,,,SXO_N_004,07-07-2021
+SXO_N_005,P7-20;P5-22,SEIXO-5,sample,,,Seixo,,,DECIDUOUS,Salamandra salamandra,,,,,SXO_N_005,07-07-2021
+SXO_N_006,P7-20;P5-28,SEIXO-6,sample,,,Seixo,,,DECIDUOUS,Salamandra salamandra,,,,,SXO_N_006,07-07-2021
+SXO_N_007,P7-20;P5-34,SEIXO-7,sample,,,Seixo,,,DECIDUOUS,Salamandra salamandra,,,,,SXO_N_007,07-07-2021
+SXO_N_008,P7-20;P5-37,SEIXO-8,sample,,,Seixo,,,DECIDUOUS,Salamandra salamandra,,,,,SXO_N_008,07-07-2021
