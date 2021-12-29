@@ -1,4 +1,4 @@
-# Dietary analysis of fire salamanders (Salamandra salamandra gallaica) in the north-western Iberian peninsula.
+# COI metabarcoding provides insights into the high diverse diet of a generalist salamander, _Salamandra salamandra_
 
 Raw data and R scripts are provided to replicate the results of Marques, et al. 2021 Diversity.
 
